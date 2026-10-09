@@ -1,0 +1,16 @@
+# KEYPLAN
+
+> Tous les programmes immobiliers neufs de Marrakech, avec l'indice de confiance TRUST.
+
+KEYPLAN réunit les programmes immobiliers neufs de Marrakech (sur plan, en construction, livrés) pour les comparer : prix, quartier, promoteur, calendrier. Chaque page de données affiche sa date de dernière mise à jour. Quand des prix sont indiqués, ils sont en dirhams marocains (MAD).
+
+L'indice TRUST attribue à chaque programme la note A ou B, ou la mention « Évaluation incomplète » quand le dossier ne permet pas encore de noter, selon une méthode publique en cinq critères, dont trois éliminatoires (titre foncier, autorisation d'urbanisme, sécurité VEFA). La note ne s'achète pas. KEYPLAN et l'agence INSIDER Properties appartiennent au même fondateur : ce lien est déclaré sur la page de la méthode.
+
+## Accueil
+- [KEYPLAN](https://keyplan-immo.com/fr/): page d'accueil
+
+## Méthode TRUST
+- [L'indice TRUST : méthodologie](https://keyplan-immo.com/fr/trust/): critères, sens des notes A et B et de l'évaluation incomplète, processus, indépendance
+
+## Optional
+- [English version](https://keyplan-immo.com/en/): chaque page existe aussi en anglais sous /en/ (mêmes sections, segments d'URL en anglais)

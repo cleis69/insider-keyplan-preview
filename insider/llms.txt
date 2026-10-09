@@ -1,0 +1,14 @@
+# INSIDER Properties
+
+> Agence immobilière à Marrakech : programmes sur plan sélectionnés, accompagnement de l'achat à la remise des clés.
+
+INSIDER Properties est une agence immobilière à Marrakech qui accompagne l'achat d'un programme sur plan, de la sélection à la remise des clés. L'agence ne commercialise que des programmes notés A ou B sur l'indice TRUST de KEYPLAN, un portail qui partage son fondateur et dont la méthode est publique.
+
+## Accueil
+- [INSIDER Properties](https://insider-properties.com/fr/): page d'accueil
+
+## Marrakech
+- [Acheter sur plan à Marrakech](https://insider-properties.com/fr/marrakech/): l'offre de l'agence à Marrakech
+
+## Optional
+- [English version](https://insider-properties.com/en/): chaque page existe aussi en anglais sous /en/ (mêmes sections, segments d'URL en anglais)

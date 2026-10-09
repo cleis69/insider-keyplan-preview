@@ -1,0 +1,8 @@
+:HL["/insider-keyplan-preview/_next/static/chunks/2q9wupxu7mh10.css","style"]
+6:[["children",{"s":"__PAGE__","h":160}]]
+5:[["children",{"s":{"n":"slug","t":"d","k":"demo-residence-palmeraie","s":[]},"h":96,"c":"$Q6"}]]
+4:[["children",{"s":"programmes","h":96,"c":"$Q5"}]]
+3:[["children",{"s":"marrakech","h":96,"c":"$Q4"}]]
+2:[["children",{"s":{"n":"lang","t":"d","k":"en","s":["llms.txt","robots.txt","sitemap-xml"]},"h":112,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"site","t":"d","k":"keyplan","s":[]},"h":112,"c":"$Q2"}]]
+0:{"b":"qtoUtp1t7nqOmzJJyBd-k","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
