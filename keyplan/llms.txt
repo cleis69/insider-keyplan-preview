@@ -4,13 +4,13 @@
 
 KEYPLAN réunit les programmes immobiliers neufs de Marrakech (sur plan, en construction, livrés) pour les comparer : prix, quartier, promoteur, calendrier. Chaque page de données affiche sa date de dernière mise à jour. Quand des prix sont indiqués, ils sont en dirhams marocains (MAD).
 
-L'indice TRUST attribue à chaque programme la note A ou B, ou la mention « Évaluation incomplète » quand le dossier ne permet pas encore de noter, selon une méthode publique en cinq critères, dont trois éliminatoires (titre foncier, autorisation d'urbanisme, sécurité VEFA). Chaque note est d'abord soumise au promoteur, qui dispose de 15 jours pour répondre ; elle est publiée avec sa date de dernière vérification et réexaminée chaque trimestre.
+L'indice TRUST évalue sur 100 le dossier de chaque programme, selon une méthode publique : cinq critères pondérés (titre foncier 25, réalisations 15, urbanisme 20, sécurité VEFA 25, transparence 15 points), faits de onze pièces vérifiées sur documents. Une pièce vérifiée rapporte tous ses points, une pièce vérifiée en partie la moitié, une pièce non vérifiée ou non communiquée aucun. Trois pièces sont vitales (titre foncier, autorisation de construire ou de lotir, garantie d'achèvement ou de restitution) : si l'une n'est pas vérifiée, le programme n'a pas de score et porte la mention « Dossier incomplet ». Paliers : de 80 à 100 « Excellent dossier », de 65 à 79 « Bon dossier », de 0 à 64 « Dossier à compléter ». Le score d'un promoteur est la moyenne arrondie des scores de ses programmes qui en ont un. Chaque score est d'abord soumis au promoteur, qui dispose de 15 jours pour répondre ; il est publié avec sa date de dernière vérification et réexaminé chaque trimestre.
 
 ## Accueil
 - [KEYPLAN](https://keyplan-immo.com/fr/): page d'accueil
 
 ## Méthode TRUST
-- [L'indice TRUST : méthodologie](https://keyplan-immo.com/fr/trust/): critères, sens des notes A et B et de l'évaluation incomplète, processus, sources
+- [Le score TRUST : méthodologie](https://keyplan-immo.com/fr/trust/): critères et poids, onze pièces et leurs points, pièces vitales, paliers du score, processus, sources
 
 ## Optional
 - [English version](https://keyplan-immo.com/en/): chaque page existe aussi en anglais sous /en/ (mêmes sections, segments d'URL en anglais)

@@ -4,11 +4,19 @@
 
 INSIDER Properties est une agence immobilière à Marrakech qui accompagne l'achat d'un programme sur plan, de la sélection à la remise des clés.
 
+Les pages présentent la sélection de programmes. Quand des prix sont indiqués, ils sont en dirhams marocains (MAD).
+
 ## Accueil
 - [INSIDER Properties](https://insider-properties.com/fr/): page d'accueil
 
-## Marrakech
+## Marrakech et sélection
 - [Acheter sur plan à Marrakech](https://insider-properties.com/fr/marrakech/): l'offre de l'agence à Marrakech
+- [Sélection de programmes](https://insider-properties.com/fr/selection/): programmes sur plan proposés par l'agence, avec les pièces de leur dossier et ce qui reste à confirmer
+
+## Programmes de la sélection
+- [Villa Peninsula](https://insider-properties.com/fr/selection/villa-peninsula/): 92 villas à étage, chacune avec piscine privée et toit-terrasse, dans une résidence sécurisée sur la route d'Amizmiz. Prix dès 3 690 000 MAD (prix publié par le promoteur, relevé le 9 octobre 2026).
+- [Honest Signature 7](https://insider-properties.com/fr/selection/honest-signature-7/): Studios, appartements et duplex au cœur de Guéliz, dans une résidence avec piscine intérieure, salle de sport et rooftop. Prix dès 1 590 000 MAD (prix publié pour le programme, relevé le 9 octobre 2026).
+- [CityStar](https://insider-properties.com/fr/selection/citystar/): Domaine sécurisé de 14 villas individuelles avec piscine privée, dans la commune d'Oulad Hassoune, en direction de la route de Fès. Prix dès 8 000 000 MAD (prix publié par le promoteur, relevé le 9 octobre 2026).
 
 ## Optional
 - [English version](https://insider-properties.com/en/): chaque page existe aussi en anglais sous /en/ (mêmes sections, segments d'URL en anglais)

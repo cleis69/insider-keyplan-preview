@@ -1,0 +1,13 @@
+:HL["/insider-keyplan-preview/_next/static/chunks/3z2tos3ndm_1t.css","style"]
+:HL["/insider-keyplan-preview/_next/static/chunks/2u2kq-ftdjmze.css","style"]
+:HL["/insider-keyplan-preview/_next/static/chunks/0twiwjd1qpj_o.css","style"]
+:HC["/",""]
+:HL["/insider-keyplan-preview/_next/static/chunks/1n3n_4o1pxs4u.css","style"]
+:HL["/insider-keyplan-preview/_next/static/chunks/1v_jony--1icr.css","style"]
+:HL["https://villa-peninsula.com/wp-content/uploads/2024/06/Oasis-exterieur-face.webp","image",{"imageSrcSet":"https://villa-peninsula.com/wp-content/uploads/2024/06/Oasis-exterieur-face-300x203.webp 300w, https://villa-peninsula.com/wp-content/uploads/2024/06/Oasis-exterieur-face-768x518.webp 768w, https://villa-peninsula.com/wp-content/uploads/2024/06/Oasis-exterieur-face-1024x691.webp 1024w, https://villa-peninsula.com/wp-content/uploads/2024/06/Oasis-exterieur-face-1536x1037.webp 1536w, https://villa-peninsula.com/wp-content/uploads/2024/06/Oasis-exterieur-face.webp 1600w","imageSizes":"(min-width: 90rem) 56rem, (min-width: 64rem) 62vw, 100vw","fetchPriority":"high"}]
+5:[["children",{"s":"__PAGE__","h":160}]]
+4:[["children",{"s":{"n":"programme","t":"d","k":"villa-peninsula","s":[]},"h":96,"c":"$Q5"}]]
+3:[["children",{"s":"selection","h":64,"c":"$Q4"}]]
+2:[["children",{"s":{"n":"lang","t":"d","k":"en","s":["llms.txt","robots.txt","sitemap-xml"]},"h":48,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"site","t":"d","k":"insider","s":[]},"h":112,"c":"$Q2"}]]
+0:{"b":"NVQUKTmWuHzvftOoxFkjh","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
