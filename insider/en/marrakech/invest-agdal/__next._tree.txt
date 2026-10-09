@@ -1,8 +1,14 @@
-:HL["/insider-keyplan-preview/_next/static/chunks/2q9wupxu7mh10.css","style"]
+:HL["/insider-keyplan-preview/_next/static/chunks/12n-pivtlh-nk.css","style"]
+:HL["/insider-keyplan-preview/_next/static/chunks/16ihoz01vevh7.css","style"]
+:HL["/insider-keyplan-preview/_next/static/chunks/0twiwjd1qpj_o.css","style"]
+:HC["/",""]
+:HL["/insider-keyplan-preview/_next/static/chunks/2ftqqfnpklmix.css","style"]
+:HL["/insider-keyplan-preview/_next/static/chunks/1v_jony--1icr.css","style"]
+:HL["https://images.unsplash.com/photo-1760262645776-633204d88ded?w=1600&q=70&auto=format&fit=max","image",{"imageSrcSet":"https://images.unsplash.com/photo-1760262645776-633204d88ded?w=480&q=70&auto=format&fit=max 480w, https://images.unsplash.com/photo-1760262645776-633204d88ded?w=768&q=70&auto=format&fit=max 768w, https://images.unsplash.com/photo-1760262645776-633204d88ded?w=1080&q=70&auto=format&fit=max 1080w, https://images.unsplash.com/photo-1760262645776-633204d88ded?w=1440&q=70&auto=format&fit=max 1440w, https://images.unsplash.com/photo-1760262645776-633204d88ded?w=1920&q=70&auto=format&fit=max 1920w, https://images.unsplash.com/photo-1760262645776-633204d88ded?w=2560&q=70&auto=format&fit=max 2560w","imageSizes":"100vw","fetchPriority":"high"}]
 6:[["children",{"s":"__PAGE__","h":160}]]
 5:[["children",{"s":{"n":"quartier","t":"d","k":"agdal","s":[]},"h":96,"c":"$Q6"}]]
 4:[["children",{"s":"investir","h":96,"c":"$Q5"}]]
-3:[["children",{"s":"marrakech","h":96,"c":"$Q4"}]]
-2:[["children",{"s":{"n":"lang","t":"d","k":"en","s":["llms.txt","robots.txt","sitemap-xml"]},"h":112,"c":"$Q3"}]]
+3:[["children",{"s":"marrakech","h":64,"c":"$Q4"}]]
+2:[["children",{"s":{"n":"lang","t":"d","k":"en","s":["llms.txt","robots.txt","sitemap-xml"]},"h":48,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"site","t":"d","k":"insider","s":[]},"h":112,"c":"$Q2"}]]
-0:{"b":"F4IX_mGO7Jekq854K2wgU","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"x6rVdq_BSbt5223e40Dby","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

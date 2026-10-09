@@ -1,7 +1,12 @@
-:HL["/insider-keyplan-preview/_next/static/chunks/2q9wupxu7mh10.css","style"]
+:HL["/insider-keyplan-preview/_next/static/chunks/12n-pivtlh-nk.css","style"]
+:HL["/insider-keyplan-preview/_next/static/chunks/16ihoz01vevh7.css","style"]
+:HL["/insider-keyplan-preview/_next/static/chunks/0twiwjd1qpj_o.css","style"]
+:HC["/",""]
+:HL["/insider-keyplan-preview/_next/static/chunks/3osp78wwdplez.css","style"]
+:HL["/insider-keyplan-preview/_next/static/chunks/1v_jony--1icr.css","style"]
 5:[["children",{"s":"__PAGE__","h":160}]]
 4:[["children",{"s":"livraisons-2027","h":96,"c":"$Q5"}]]
-3:[["children",{"s":"marrakech","h":96,"c":"$Q4"}]]
-2:[["children",{"s":{"n":"lang","t":"d","k":"fr","s":["llms.txt","robots.txt","sitemap-xml"]},"h":112,"c":"$Q3"}]]
+3:[["children",{"s":"marrakech","h":64,"c":"$Q4"}]]
+2:[["children",{"s":{"n":"lang","t":"d","k":"fr","s":["llms.txt","robots.txt","sitemap-xml"]},"h":48,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"site","t":"d","k":"keyplan","s":[]},"h":112,"c":"$Q2"}]]
-0:{"b":"F4IX_mGO7Jekq854K2wgU","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"x6rVdq_BSbt5223e40Dby","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
