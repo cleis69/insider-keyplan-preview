@@ -12,5 +12,11 @@ L'indice TRUST évalue sur 100 le dossier de chaque programme, selon une méthod
 ## Méthode TRUST
 - [Le score TRUST : méthodologie](https://keyplan-immo.com/fr/trust/): critères et poids, onze pièces et leurs points, pièces vitales, paliers du score, processus, sources
 
+## Simulateurs
+- [Simulateurs](https://keyplan-immo.com/fr/simulateurs/): outils de calcul pour comparer un achat dans le neuf ; paramètres légaux sourcés et datés, résultats indicatifs
+- [Simulateur de versements](https://keyplan-immo.com/fr/simulateurs/versements/): échéancier d'un achat sur plan : réservation, appels de fonds, remise des clés
+- [Simulateur de financement](https://keyplan-immo.com/fr/simulateurs/credit/): frais d'acquisition et coût d'un financement : crédit classique, Mourabaha, Ijara
+- [Simulateur de rentabilité locative](https://keyplan-immo.com/fr/simulateurs/rentabilite/): rendement brut, net et net d'impôt, cash-flow mensuel
+
 ## Optional
 - [English version](https://keyplan-immo.com/en/): chaque page existe aussi en anglais sous /en/ (mêmes sections, segments d'URL en anglais)

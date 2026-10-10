@@ -1,8 +1,8 @@
-:HL["/insider-keyplan-preview/_next/static/chunks/3z2tos3ndm_1t.css","style"]
-:HL["/insider-keyplan-preview/_next/static/chunks/2u2kq-ftdjmze.css","style"]
+:HL["/insider-keyplan-preview/_next/static/chunks/1byqokz75nr19.css","style"]
+:HL["/insider-keyplan-preview/_next/static/chunks/26itk2hgbtj6a.css","style"]
 :HL["/insider-keyplan-preview/_next/static/chunks/0twiwjd1qpj_o.css","style"]
 :HC["/",""]
-:HL["/insider-keyplan-preview/_next/static/chunks/1n3n_4o1pxs4u.css","style"]
+:HL["/insider-keyplan-preview/_next/static/chunks/1j8x5x21ip98u.css","style"]
 :HL["/insider-keyplan-preview/_next/static/chunks/1v_jony--1icr.css","style"]
 :HL["https://images.unsplash.com/photo-1638278958562-be34bf8946c3?w=1600&q=70&auto=format&fit=max","image",{"imageSrcSet":"https://images.unsplash.com/photo-1638278958562-be34bf8946c3?w=480&q=70&auto=format&fit=max 480w, https://images.unsplash.com/photo-1638278958562-be34bf8946c3?w=768&q=70&auto=format&fit=max 768w, https://images.unsplash.com/photo-1638278958562-be34bf8946c3?w=1080&q=70&auto=format&fit=max 1080w, https://images.unsplash.com/photo-1638278958562-be34bf8946c3?w=1440&q=70&auto=format&fit=max 1440w, https://images.unsplash.com/photo-1638278958562-be34bf8946c3?w=1920&q=70&auto=format&fit=max 1920w, https://images.unsplash.com/photo-1638278958562-be34bf8946c3?w=2560&q=70&auto=format&fit=max 2560w","imageSizes":"100vw","fetchPriority":"high"}]
 6:[["children",{"s":"__PAGE__","h":160}]]
@@ -11,4 +11,4 @@
 3:[["children",{"s":"marrakech","h":64,"c":"$Q4"}]]
 2:[["children",{"s":{"n":"lang","t":"d","k":"fr","s":["llms.txt","robots.txt","sitemap-xml"]},"h":48,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"site","t":"d","k":"insider","s":[]},"h":112,"c":"$Q2"}]]
-0:{"b":"NVQUKTmWuHzvftOoxFkjh","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"96vDC9zPMQxI31Nrrpwhe","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

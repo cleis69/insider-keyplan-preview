@@ -4,7 +4,7 @@
 
 INSIDER Properties est une agence immobilière à Marrakech qui accompagne l'achat d'un programme sur plan, de la sélection à la remise des clés.
 
-Les pages présentent la sélection de programmes. Quand des prix sont indiqués, ils sont en dirhams marocains (MAD).
+Les pages présentent la sélection de programmes et des simulateurs de calcul. Quand des prix sont indiqués, ils sont en dirhams marocains (MAD).
 
 ## Accueil
 - [INSIDER Properties](https://insider-properties.com/fr/): page d'accueil
@@ -12,6 +12,12 @@ Les pages présentent la sélection de programmes. Quand des prix sont indiqués
 ## Marrakech et sélection
 - [Acheter sur plan à Marrakech](https://insider-properties.com/fr/marrakech/): l'offre de l'agence à Marrakech
 - [Sélection de programmes](https://insider-properties.com/fr/selection/): programmes sur plan proposés par l'agence, avec les pièces de leur dossier et ce qui reste à confirmer
+
+## Simulateurs
+- [Simulateurs](https://insider-properties.com/fr/simulateurs/): outils de calcul pour préparer un achat sur plan à Marrakech ; chiffres indicatifs, à revoir avec un conseiller
+- [Simulateur de versements](https://insider-properties.com/fr/simulateurs/versements/): ce que l'on verse à la réservation, pendant le chantier et à la remise des clés
+- [Simulateur de financement](https://insider-properties.com/fr/simulateurs/credit/): frais d'acquisition, mensualité et coût total, en crédit classique, Mourabaha ou Ijara
+- [Simulateur de rentabilité locative](https://insider-properties.com/fr/simulateurs/rentabilite/): rendement brut, net et net d'impôt, cash-flow mensuel, à partir de ses hypothèses
 
 ## Programmes de la sélection
 - [Villa Peninsula](https://insider-properties.com/fr/selection/villa-peninsula/): 92 villas à étage, chacune avec piscine privée et toit-terrasse, dans une résidence sécurisée sur la route d'Amizmiz. Prix dès 3 690 000 MAD (prix publié par le promoteur, relevé le 9 octobre 2026).
